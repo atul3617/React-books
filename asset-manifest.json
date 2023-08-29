@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/novel-react/static/css/main.033a2b7a.css",
+    "main.js": "/novel-react/static/js/main.2ae88a8a.js",
+    "index.html": "/novel-react/index.html",
+    "main.033a2b7a.css.map": "/novel-react/static/css/main.033a2b7a.css.map",
+    "main.2ae88a8a.js.map": "/novel-react/static/js/main.2ae88a8a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.033a2b7a.css",
+    "static/js/main.2ae88a8a.js"
+  ]
+}
